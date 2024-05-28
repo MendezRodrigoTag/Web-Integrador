@@ -31,14 +31,18 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
     949DA5
     D5E2CA
 ### 3 - Imagenes
-![alt text](img/abrigos.jpg)
-
+![abrigos](img/abrigos.jpg) 
+![calzado](img/calzado.jpg) 
+![producto1](img/product-1.jpg) 
+![producto2](img/product-2.jpg) 
+![producto3](img/product-3.jpg) 
+![producto4](img/product-4.jpg) 
+![producto5](img/splash.jpg)
 ### 4 - Png
-!
-    1.[png-email](png/email.png)
-    2.[png-facebook](png/facebook.png)
-    3.[png-instagram](png/instagram.png)
-    4.[png-telephone](png/telephone-handle-silhouette.png)
-    5.[png-logo](png/logo2.png)
-    6.[mockup-contact-page](png/Mockup%20cloth%20shop-Contact.drawio.png)
-    7.[mockup-main-page](png/Mockup%20cloth%20shop-Main.drawio.png)
+![logo](png/logo2.png) 
+![mail](png/email.png) 
+![facebook](png/facebook.png) 
+![instagram](png/instagram.png) 
+![telephone](png/telephone-handle-silhouette.png)
+![mockup contact](<png/Mockup cloth shop-Contact.drawio.png>) 
+![mockup main](<png/Mockup cloth shop-Main.drawio.png>) 
