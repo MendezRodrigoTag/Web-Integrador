@@ -1,6 +1,8 @@
 # Web-Integrador
 Como proyecto se me ocurrio hacer una pagina para una tienda de ropa. En este caso usaria de ejemplo la tienda de ropa "Itulugar" que es un emprendimiento familiar.
 
+<img src="png/Mockup cloth shop-Main.drawio.png" alt="Main-Page" style="width: 60%;">
+<img src="png/Mockup cloth shop-Contact.drawio.png" alt="Contact-Page" style="width: 60%;">
 
 # Author: Rodrigo Nicolas Mendez
 
@@ -21,6 +23,13 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
 1. Presentacion: Imagen principal - contenido hero - texto/nombre/slogan/mision - centrado en la imagen
 2. seccion 2: Productos mas vendidos y sus respectivos precios  
 3. seccion 3: Imagenes con productos de temporada / calzado con link directo a su respectiva pagina 
+
+### 4 - Wireframe
+
+    Pagina 1: Principal
+![mockup-main-page](png/Mockup%20cloth%20shop-Main.drawio.png)
+    Pagina 2: Contacto 
+![mockup-contact](png/Mockup%20cloth%20shop-Contact.drawio.png)
 
 ## Diseño UI
 
@@ -44,5 +53,3 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
 ![facebook](png/facebook.png) 
 ![instagram](png/instagram.png) 
 ![telephone](png/telephone-handle-silhouette.png)
-![mockup contact](<png/Mockup cloth shop-Contact.drawio.png>) 
-![mockup main](<png/Mockup cloth shop-Main.drawio.png>) 
