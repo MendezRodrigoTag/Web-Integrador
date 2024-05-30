@@ -25,6 +25,7 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
 
     Pagina 1: Principal
 <img src="png/Mockup cloth shop-Main.drawio.png" alt="Main-Page" style="width: 60%;">
+
     Pagina 2: Contacto 
 <img src="png/Mockup cloth shop-Contact.drawio.png" alt="Contact-Page" style="width: 60%;">
 
