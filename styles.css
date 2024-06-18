@@ -9,6 +9,11 @@ header{
     display: flex;
     width: 100%;
 }
+.logo{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
 .logo a img{
     height: 70px;
 }
@@ -41,7 +46,7 @@ header{
 /*header*/
 /*main*/
 main{
-    background-color: #D5E2CA;
+    background-color: #FFF4E4;
 }
 .hero{
     text-align: center;
@@ -71,6 +76,7 @@ main{
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
+    background-color: #FFF4E4;
 }
 .best-sellers h2{
     padding: 10px
@@ -138,6 +144,7 @@ footer{
     flex-wrap: wrap;
     background-color: #FFECE4;
     padding: 20px;
+    height: 250px;
 }
 footer a{
     color: black;
@@ -147,7 +154,7 @@ footer li{
     list-style-type: none;
 }
 footer li i{
-    padding-left: 20px;
+    padding: 10px
 }
 .footer-section{
     flex: 1;
@@ -164,11 +171,16 @@ footer li i{
 text-decoration: underline;
 }
 .footer-section-media{
+    text-align: center;
     align-content: center;
+    padding: 10px;
 }
 .social-media{
-    vertical-align: middle;
-    text-align: center;
-    justify-content: space-between;
     display: flex;
+}
+.footer-section-map{
+    height: 100%;
+}
+iframe{
+    height: 100%;
 }

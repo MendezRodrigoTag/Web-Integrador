@@ -35,10 +35,10 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
     - Font: Tahoma
 ### 2 - Colores
     FFECE4
+    FFF4E4
     949DA5
-    D5E2CA
 ### 3 - Imagenes
-![abrigos](img/abrigos.jpg) 
+![abrigos](img/abrigos.jpg)
 ![calzado](img/calzado.jpg) 
 ![producto1](img/product-1.jpg) 
 ![producto2](img/product-2.jpg) 
