@@ -38,16 +38,12 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
     FFF4E4
     949DA5
 ### 3 - Imagenes
-![abrigos](img/abrigos.jpg)
+![abrigos](img/abrigo.jpg)
 ![calzado](img/calzado.jpg) 
-![producto1](img/product-1.jpg) 
-![producto2](img/product-2.jpg) 
-![producto3](img/product-3.jpg) 
-![producto4](img/product-4.jpg) 
+![producto1](img/product-1.jpg)
+![producto2](img/product-2.jpg)
+![producto3](img/product-3.jpg)
+![producto4](img/product-4.jpg)
 ![producto5](img/splash.jpg)
 ### 4 - Png
-![logo](png/logo2.png) 
-![mail](png/email.png) 
-![facebook](png/facebook.png) 
-![instagram](png/instagram.png) 
-![telephone](png/telephone-handle-silhouette.png)
+![logo](png/logo2.png)

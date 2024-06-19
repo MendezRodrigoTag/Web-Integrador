@@ -43,6 +43,9 @@ header{
 .cart-icon a{
     text-decoration: none
 }
+.cart-icon a:hover{
+    font-size: large;
+}
 /*header*/
 /*main*/
 main{
@@ -62,7 +65,7 @@ main{
     background-color: rgba(0,0,0, 0.4);
     color: white;
     font-weight: bold;
-    border: 3px solid #f1f1f1;
+    border: 1px solid #f1f1f1;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -72,6 +75,9 @@ main{
     padding: 20px;
     text-align: center;
 }
+.bg-text :hover{
+    cursor: default;
+}
 .best-sellers{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -79,10 +85,14 @@ main{
     background-color: #FFF4E4;
 }
 .best-sellers h2{
-    padding: 10px
+    margin-bottom: 30px;
 }
 .best-sellers img{
-    height: 50vh
+    max-width: 100%;
+    height: 500px;
+}
+.best-sellers img:hover{
+    filter: drop-shadow(3px 3px 5px black);
 }
 .product-list{
     display: flex;
@@ -92,19 +102,25 @@ main{
 .product-item{
     margin: auto
 }
+.product-item h4{
+    padding-bottom: 10px;
+    font-style: italic;
+    text-align: start;
+    color: grey;
+}
 .product-item p{
     font-weight: bolder;
     text-align: start;
+    font-size: 19px;
 }
 .categories{
-    
     background-color: #949DA5;
     display: flex;
     justify-content: space-around;
     margin: auto;
 }
 .categories img{
-    width: 50vh;
+    height: 70vh;
     padding: 30px;
 }
 .category{
@@ -115,7 +131,7 @@ main{
     display: flex;
 }
 .category h3{
-    color: black;
+    color: whitesmoke;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -136,6 +152,9 @@ main{
     border-radius: 5px;
     text-align: center;
 }
+.category button:hover{
+    font-size: large;
+}
 /*main*/
 /*footer*/
 footer{
@@ -147,8 +166,9 @@ footer{
     height: 250px;
 }
 footer a{
-    color: black;
+    color: grey;
     text-decoration: none;
+    font-size: small;
 }
 footer li{
     list-style-type: none;
@@ -174,6 +194,12 @@ text-decoration: underline;
     text-align: center;
     align-content: center;
     padding: 10px;
+}
+.footer-section-media a{
+    color: black;
+}
+.footer-section-media a:hover{
+    font-size: medium;
 }
 .social-media{
     display: flex;
