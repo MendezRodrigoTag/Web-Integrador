@@ -40,11 +40,14 @@ header{
 .nav-links a:hover{
     color: purple
 }
+.cart-icon{
+    font-size: x-large;
+}
 .cart-icon a{
     text-decoration: none
 }
 .cart-icon a:hover{
-    font-size: large;
+    font-size: xx-large;
 }
 /*header*/
 /*main*/
@@ -209,4 +212,50 @@ text-decoration: underline;
 }
 iframe{
     height: 100%;
+}
+/*contact css*/
+h1#contact{
+    padding-top: 30px;
+    text-align: center;
+}
+form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.form-container h1{
+    text-align: center;
+}
+input{
+    width: 50%;
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box;
+    margin-top: 6px; 
+    margin-bottom: 16px;
+}
+textarea{
+    width: 50%;
+    min-height: 200px;
+    resize: none; 
+}
+.message{
+    padding-bottom: 12px;
+}
+button[type=submit]{
+    background-color: #949DA5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 80px;    
+}
+button[type=submit]:hover {
+    background-color: purple;
+}
+.form-container{
+    padding: 30px;
 }
