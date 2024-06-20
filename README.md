@@ -32,18 +32,24 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
 ## Diseño UI
 
 ### 1 - Fonts
+
     - Font: Tahoma
+
 ### 2 - Colores
+
     FFECE4
     FFF4E4
     949DA5
+
 ### 3 - Imagenes
-![abrigos](img/abrigo.jpg)
-![calzado](img/calzado.jpg) 
-![producto1](img/product-1.jpg)
-![producto2](img/product-2.jpg)
-![producto3](img/product-3.jpg)
-![producto4](img/product-4.jpg)
-![producto5](img/splash.jpg)
+
+<img src="img/abrigo.jpg" alt="Abrigo" style="width: 60%;">
+<img src="img/calzado.jpg" alt="Calzado" style="width: 60%;">
+<img src="img/product-1.jpg" alt="producto-1" style="width: 60%;">
+<img src="img/product-2.jpg" alt="producto-2" style="width: 60%;">
+<img src="img/product-3.jpg" alt="producto-3" style="width: 60%;">
+<img src="img/product-4.jpg" alt="producto-4" style="width: 60%;">
+<img src="img/splash.jpg" alt="perchero" style="width: 60%;">
+
 ### 4 - Png
 ![logo](png/logo2.png)
