@@ -9,7 +9,7 @@ Como proyecto se me ocurrio hacer una pagina para una tienda de ropa. En este ca
 El objetivo principal de la pagina es tener todo el catalogo de la tienda bien distribuido y accesible para todo aquel que quiera comprar
 
 ### 2 - Ideas del Cliente y Contenido
-    Pagina web de presentacion
+    https://mendezrodrigotag.github.io/Web-Integrador/
 
 1. Presentacion: Imagen de la empresa / logo / frase / nombre empresa / mision
 2. seccion 2: detalle
@@ -37,9 +37,9 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
 
 ### 2 - Colores
 
-    FFECE4
-    FFF4E4
-    949DA5
+    #FFECE4
+    #FFF4E4
+    #949DA5
 
 ### 3 - Imagenes
 
