@@ -12,8 +12,9 @@ El objetivo principal de la pagina es tener todo el catalogo de la tienda bien d
     https://mendezrodrigotag.github.io/Web-Integrador/
 
 1. Presentacion: Imagen de la empresa / logo / frase / nombre empresa / mision
-2. seccion 2: detalle
-3. seccion 3: detalle
+2. seccion 1: imagen con contenido de presentacion / promociones
+3. seccion 2: productos mas vendidos
+4. seccion 3: atajo a secciones de abrigos y calzados
 
 ### 3 - Presentacion de las ideas
 
