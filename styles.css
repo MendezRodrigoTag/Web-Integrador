@@ -61,7 +61,7 @@ header{
     filter: drop-shadow(1px 1px 3px);
     color: #555;
 }
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     .menu-icon {
         display: block;
     }
