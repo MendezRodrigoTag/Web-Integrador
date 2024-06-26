@@ -12,19 +12,22 @@
     <header>
         <div class="navbar">
             <div class="logo">
-                <a href="index.html"><img src="png/logo2.png" alt=""></a>
+                <a href="index.html"><img src="png/logo2.png" alt="logo"></a>
             </div>
-            <nav>
-                <ul class="nav-links">
-                    <li><a href="#">Categorías</a></li>
-                    <li><a href="#">Mujer</a></li>
-                    <li><a href="#">Hombre</a></li>
-                    <li><a href="#">Niños</a></li>
-                    <li><a href="#">Accesorios</a></li>
+            <nav id="nav" class="nav">
+                <ul id="nav-links" class="nav-links">
+                    <a href="#"><li>Categorias</li></a>
+                    <a href="#"><li>Mujer</li></a>
+                    <a href="#"><li>Hombre</li></a>
+                    <a href="#"><li>Niños</li></a>
+                    <a href="#"><li>Accesorios</li></a>
                 </ul>
             </nav>
-            <div class="cart-icon">
-                <a href="#">🛒</a>
+            <div class="menu-container">
+                <div class="menu-icon" onclick="toggleMenu()">☰</div>
+                <div class="cart-icon">
+                    <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+                </div>
             </div>
         </div>
     </header>

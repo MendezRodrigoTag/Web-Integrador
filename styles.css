@@ -66,6 +66,9 @@ header{
 main{
     background-color: #FFF4E4;
 }
+body{
+    flex-wrap: wrap;
+}
 .hero{
     text-align: center;
     filter: blur(8px);
@@ -139,12 +142,6 @@ main{
 .categories img{
     height: 70vh;
     padding: 30px;
-}
-@media (max-width: 768px) {
-    .categories img{
-        height: 40vh;
-        padding: 20px;
-    }
 }
 .category{
     color: black;
@@ -311,4 +308,8 @@ button[type=submit]:hover {
     .product-list img{
         width: 375px;
     }
-}
+    .categories img{
+        height: 40vh;
+        padding: 20px;
+    }   
+}   
