@@ -75,14 +75,19 @@ header{
         border: 1px solid black;
         background-color: #FFF4E4;
         top: 10%;
+        left: 4px;
         z-index: 1;
-        width: 97%;
+        width: 99%;
+        margin: auto;
     }
     .nav-links{
         display: block;
     }
     .nav-links li:hover{
     background-color: grey;
+    }
+    .product-list img{
+        width: 375px;
     }
 } 
 /*header*/
