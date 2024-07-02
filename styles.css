@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: tahoma;
+    box-sizing: border-box;
     }
 /* header */
 header{
@@ -237,31 +238,36 @@ h1#contact{
     padding-top: 30px;
     text-align: center;
 }
-form{
-    align-items: center;
+.form-container{
     display: flex;
     flex-direction: column;
+    margin-left: 500px;
+    margin-right: 500px;
 }
-.form-container h1{
-    text-align: center;
+.form-group{
+    width: 100%;
+}
+label{
+    font-size: medium ;
+    font-weight: bolder;
 }
 input{
-    width: 50%;
+    width: 100%;
     padding: 12px; 
     border: 1px solid #ccc; 
     border-radius: 4px; 
-    box-sizing: border-box;
     margin-top: 6px; 
     margin-bottom: 16px;
 }
 textarea{
-    width: 50%;
+    width: 100%;
     min-height: 200px;
     resize: none; 
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    margin-top: 16px ;
 }
-.message{
-    padding-bottom: 12px;
-}
+
 button[type=submit]{
     background-color: #949DA5;
     color: white;
@@ -270,14 +276,13 @@ button[type=submit]{
     border-radius: 4px;
     cursor: pointer;
     margin-top: 10px;
-    width: 80px;    
+    width: 80px;
+    float: right;    
 }
 button[type=submit]:hover {
     background-color: purple;
 }
-.form-container{
-    padding: 30px;
-}
+
 /*hombre css*/
 
 .container-items{
